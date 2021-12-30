@@ -159,7 +159,7 @@ body {
     margin-right: -3.25rem; }
     .search__input:focus {
       outline: none;
-      width: 100%;
+      width: 95%;
       background-color: var(--color-grey-light-3); }
     .search__input::-webkit-input-placeholder {
       font-weight: 100;
